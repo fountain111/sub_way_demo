@@ -1,0 +1,10 @@
+demo
+
+1:演示切割整张图,取上门面半张图。目的是get 学号
+2:用opencv get 矩形,
+3:resize to 28*28
+4:use minist to predict
+5:输出预测的数字
+
+
+
